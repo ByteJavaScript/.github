@@ -5,8 +5,6 @@
 * 💻 **Software & Web Development**
 * 📱 **Mobile Apps & Frameworks**
 
-* 🕹️ **Minecraft Server & Game Tools**
-
 Visit us ➔ [bytejavascript](https://bytejavascript.id/)
 
 ## ✨ Vision
@@ -16,10 +14,9 @@ To empower individuals, businesses, and communities through innovative and integ
 - ✅ Develop modern software solutions: web, mobile, desktop
 - ✅ Build and maintain custom frameworks & tools
 - ✅ Design human-centered UI/UX experiences
-- ✅ Innovate in OS-level customization and embedded technologies
 
 ## 🚀 Featured Projects
-* 🔗 **Minecraft Servers** – Custom plugins, modpacks, and hosting solutions
+* 🔗 **Sharing Game Features** – Custom plugins, modpacks, and hosting solutions
 * 🔗 **Web & App Projects** – Portfolio, business, and community apps
 
 ## 📂 Open Source Repositories
